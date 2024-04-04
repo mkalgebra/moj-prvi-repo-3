@@ -4,3 +4,4 @@ console.log("asdasd");
 console.log("adasd");
 console.log("osoba b");
 console.log("osoba A");
+console.log("Osoba B");
